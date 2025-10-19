@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi, I'm Gianfranco 👋
+
+- 🙂 I'm Systems and Computer Engineer
+- 😎 I’m currently building awesome things
+- 🌱 I’m currently learning cloud, game development, devops
+- 💬 Ask me about mobile development, System Design
 
 <!--
-**giancbri/giancbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
