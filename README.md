@@ -1,6 +1,6 @@
 ## Hi, I'm Gianfranco 👋
 
-- 🙂 I'm Systems and Computer Engineer
+- 🙂 I'm Computer Systems Engineer
 - 😎 I’m currently building awesome things
 - 🌱 I’m currently learning cloud, game development, devops
 - 💬 Ask me about mobile development, System Design
